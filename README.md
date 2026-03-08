@@ -1,12 +1,5 @@
 # # 🧠 Felipe Marques | AI-Augmented Software Engineering & HealthTech
 
-<div align="center">
-<img src="[https://img.shields.io/badge/Nutrição-Bacharel-apple?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Nutri%C3%A7%C3%A3o-Bacharel-apple%3Fstyle%3Dflat-square)" alt="Nutrição">
-<img src="[https://img.shields.io/badge/AI_Student-Cruzeiro_do_Sul-blue?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/AI_Student-Cruzeiro_do_Sul-blue%3Fstyle%3Dflat-square)" alt="AI">
-<img src="[https://img.shields.io/badge/ML_Postgraduate-Anhanguera-purple?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/ML_Postgraduate-Anhanguera-purple%3Fstyle%3Dflat-square)" alt="ML">
-<img src="[https://img.shields.io/badge/React-Vite-646CFF?style=flat-square&logo=vite](https://www.google.com/search?q=https://img.shields.io/badge/React-Vite-646CFF%3Fstyle%3Dflat-square%26logo%3Dvite)" alt="Vite">
-</div>
-
 <br />
 
 Nutricionista clínico e esportivo com 4+ anos de experiência, atualmente aprendendo Engenharia de Software com foco em Inteligência Artificial. Minha missão é **digitalizar a expertise nutricional** através de soluções de software de alta performance, unindo a precisão da ciência da saúde com o futuro.
