@@ -47,15 +47,6 @@ Software proprietário desenvolvido para automatizar a operação da equipe de n
 
 ---
 
-## 🛠 Tech Stack & Domínios
-
-* **Ciência da Saúde:** Nutrição Clínica, Nutrição Esportiva, Bioquímica e Antropometria Aplicada.
-* **Engenharia de IA:** Prompt Engineering, Python (Pandas/NumPy), futuro foco em NLP e Machine Learning.
-* **Desenvolvimento Web:** React.js, Vite, TypeScript, Tailwind CSS, Next.js.
-* **Cloud & Infra:** Git, CI/CD Pipelines (GitHub Actions), Vercel, Supabase.
-
----
-
 ## 📈 Conecte-se comigo
 
 * **LinkedIn:** [[@asiaticonutri](https://www.linkedin.com/in/asiaticonutri/)]
