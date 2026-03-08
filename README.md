@@ -1,4 +1,4 @@
-# # 🧠 Felipe Marques | AI-Augmented Software Engineering & HealthTech
+# # 🧠 Felipe Marques | AI "Software Engineering" & HealthTech
 
 <br />
 
