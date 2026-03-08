@@ -58,7 +58,7 @@ Software proprietário desenvolvido para automatizar a operação da equipe de n
 
 ## 📈 Conecte-se comigo
 
-* **LinkedIn:** [[Seu Link Aqui](https://www.linkedin.com/in/asiaticonutri/)]
+* **LinkedIn:** [[@asiaticonutri](https://www.linkedin.com/in/asiaticonutri/)]
 * **Instagram Profissional:** [@asiaticonutri](https://instagram.com/asiaticonutri)
 * **Site de Consultoria:** [asiaticonutri.com](https://asiaticonutri.com)
 
