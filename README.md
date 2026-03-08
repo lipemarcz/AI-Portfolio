@@ -19,7 +19,7 @@ Este portfólio e os projetos listados foram desenvolvidos utilizando metodologi
 Originalmente concebido em Next.js e refatorado para **Vite + React** para ganho de performance crítica e otimização de SEO.
 - **Foco:** Conversão (Copywriting de alto impacto) e Performance.
 - **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion.
-- **Destaque:** Interface focada em UX Premium para público de consultoria High-Ticket.
+- **Destaque:** Interface focada em UX Premium.
 
 ### 2. WebNutria (SaaS Interno) | [webnutria.vercel.app](https://webnutria.vercel.app/)
 **Plataforma de Gestão e Agilidade Nutricional**
