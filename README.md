@@ -42,8 +42,8 @@ Software proprietário desenvolvido para automatizar a operação da equipe de n
 | Instituição | Grau / Título | Período |
 | --- | --- | --- |
 | **Unitri** | Bacharel em Nutrição | 2017 — 2021 |
-| **Cruzeiro do Sul** | Tecnólogo em Inteligência Artificial | *Cursando* | ago de 2025 - ago de 2027 |
-| **Anhanguera** | Pós-graduação em Machine Learning & IA | *Cursando* | set de 2025 - jul de 2026 |
+| **Cruzeiro do Sul** | Tecnólogo em Inteligência Artificial | *Cursando* | 2025 - 2027 |
+| **Anhanguera** | Pós-graduação em Machine Learning & IA | 2025 - 2026 |
 
 ---
 
