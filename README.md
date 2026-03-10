@@ -2,7 +2,7 @@
 
 <br />
 
-Nutricionista clínico e esportivo com 4+ anos de experiência, atualmente aprendendo Engenharia de Software com foco em Inteligência Artificial. Minha missão é **digitalizar a expertise nutricional** através de soluções de software de alta performance, unindo a precisão da ciência da saúde com o futuro.
+Um nutricionista entusiasta de tecnologia por vocação que nunca parou de estudar. Com 4 anos de experiência clínica e esportiva (inclusive atletas), venho me aprofundando em Machine Learning e Inteligência Artificial como extensão e compreensão do futuro. Acredito que o futuro da performance humana será potencializado por modelos inteligentes que nos ajudam a evoluir cada vez mais.
 
 ## 🚀 Projetos em Destaque
 
