@@ -4,21 +4,22 @@
 
 Nutricionista clínico e esportivo com 4+ anos de experiência, atualmente aprendendo Engenharia de Software com foco em Inteligência Artificial. Minha missão é **digitalizar a expertise nutricional** através de soluções de software de alta performance, unindo a precisão da ciência da saúde com o futuro.
 
----
-
-## 🤖 Filosofia de Desenvolvimento: AI-First (Augmented Engineering)
-
-Este portfólio e meu ecossistema de software são construídos sob o paradigma da **Coding auxiliado por IA (Agile-VibeCoding?)**. Não apenas utilizo ferramentas de IA; eu as integro ao ciclo de vida de desenvolvimento (SDLC) para garantir:
-
-* **Eficiência de Elite:** Redução drástica no tempo de codificação de tarefas repetitivas, permitindo foco total na arquitetura e na lógica de negócio complexa.
-* **Qualidade & Refatoração:** Uso sistemático de LLMs para revisão de código, implementação de padrões *Clean Code* e otimização de algoritmos.
-* **Inovação Semântica:** Implementação de funcionalidades que seriam impossíveis sem o processamento inteligente de dados.
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 1. Asiático Nutri | [asiaticonutri.com](https://asiaticonutri.com)
+
+<div align="center">
+
+# 🌐 Atendimentos 100% Online
+
+[![React](https://img.shields.io/badge/React-19.2-blue.svg?style=flat&logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF.svg?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![InstantDB](https://img.shields.io/badge/InstantDB-0.22-FF5A5F.svg?style=flat&logo=database&logoColor=white)](https://instantdb.com/)
+[![Resend](https://img.shields.io/badge/Resend-6.9-black.svg?style=flat&logo=minutemailer&logoColor=white)](https://resend.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 **Consultoria de Elite & Landing Page de Alta Conversão**
 Uma plataforma focada em autoridade e UX Premium. Originalmente em Next.js, realizei a migração estratégica para **Vite** para atingir tempos de carregamento próximos do instantâneo e otimização máxima de SEO.
@@ -27,6 +28,20 @@ Uma plataforma focada em autoridade e UX Premium. Originalmente em Next.js, real
 * **Destaque:** Interface minimalista projetada para converter leads High-Ticket.
 
 ### 2. WebNutria (SaaS Interno) | [webnutria.vercel.app](https://webnutria.vercel.app/)
+
+<div align="center">
+
+# 🧠 Nutr(IA) Macros
+
+[![React](https://img.shields.io/badge/React-18.3-blue.svg?style=flat&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.2-646CFF.svg?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-2.54-3ECF8E.svg?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![CI/CD Status](https://github.com/lipemarcz/V2-NUTRIA/actions/workflows/pipeline.yml/badge.svg)](https://github.com/lipemarcz/V2-NUTRIA/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 **Ecossistema de Gestão Nutricional Inteligente**
 Software proprietário desenvolvido para automatizar a operação da equipe de nutrição, transformando demandas complexas em processos ágeis.
