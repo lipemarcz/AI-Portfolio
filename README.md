@@ -1,6 +1,6 @@
-# # Felipe Marques 
+#  Felipe Marques, 29 anos
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 | Instituição | Grau / Título | Período |
 | --- | --- | --- |
@@ -11,7 +11,7 @@
 
 ---
 
-## 📈 Conecte-se comigo
+## Conecte-se comigo
 
 * **LinkedIn:** [[@asiaticonutri](https://www.linkedin.com/in/asiaticonutri/)]
 * **Instagram Profissional:** [@asiaticonutri](https://instagram.com/asiaticonutri)
